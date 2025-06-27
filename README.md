@@ -1,4 +1,4 @@
-# 📊 Retail Sales Dashboard (Power BI)
+# 📊 Sales Trend Analysis & Visualization – Power BI Project
 
 ## 📌 Overview
 
